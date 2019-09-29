@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 
+// The following code has been adapted from Jamie Gant's video tutorial from Ganttech.com
+// --------------------------------------------------------------------------------------
+
 public class Mole : MonoBehaviour {
 
     private AudioSource audio;
